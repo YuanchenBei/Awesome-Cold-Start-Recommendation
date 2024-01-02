@@ -24,6 +24,18 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (SIGIR 2023) **Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3539618.3592078)
 
+(CIKM 2023) **An Unified Search and Recommendation Foundation Model for Cold-Start Scenario** [[Paper]](https://arxiv.org/pdf/2309.08939.pdf)
+
+(CIKM 2023) **Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614972) [[Code]](https://github.com/xuan92ta/WDoF)
+
+(CIKM 2023) **Meta-Learning with Adaptive Weighted Loss for Imbalanced Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2302.14640.pdf) [[Code]](https://github.com/YangYongJin/MELO)
+
+(CIKM 2023) **Self-supervised Contrastive Enhancement with Symmetric Few-shot Learning Towers for Cold-start News Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3615053)
+
+(CIKM 2023) **Task-Difficulty-Aware Meta-Learning with Adaptive Update Strategies for User Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3615074)
+
+(CIKM 2023) **Boosting Meta-Learning Cold-Start Recommendation with Graph Neural Network** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3615283)
+
 (TOIS 2023) **User Cold-Start Recommendation via Inductive Heterogeneous Graph Neural Network** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560487)
 
 ### Year 2022
@@ -66,19 +78,3 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (NIPS 2017) **DropoutNet: Addressing Cold Start in Recommender Systems** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2017/file/dbd22ba3bd0df8f385bdac3e9f8be207-Paper.pdf) [[Code]](https://github.com/layer6ai-labs/DropoutNet)
 
 (NIPS 2013) **Deep Content-based Music Recommendation** [[Paper]](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
-
-
-| **Paper Title** | **Model Abbreviation** | **Venue** | **PDF Link** | **Code Link** |
-| --------------- | :--------: | :--------: | :--------: | :--------: |
-| Aligning Distillation For Cold-start Item Recommendation | ALDI | _SIGIR 2023_ | [[PDF]](https://dl.acm.org/doi/10.1145/3539618.3591732) | [[CODE]](https://github.com/zfnWong/ALDI) |
-| Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation | UCC | _SIGIR 2023_ | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3592078) | N/A |
-| Generative Adversarial Framework for Cold-Start Item Recommendation | GAR | _SIGIR 2022_ | [[PDF]](https://dl.acm.org/doi/abs/10.1145/3477495.3531897) | [[CODE]](https://github.com/zfnWong/GAR) | 
-| Sequential Recommendation for Cold-start Users with Meta Transitional Learning | MetaTL | _SIGIR 2021_ | [[PDF]](https://arxiv.org/pdf/2107.06427.pdf) | [[CODE]](https://github.com/wangjlgz/MetaTL) |
-| Cold-start Sequential Recommendation via Meta Learner | Mecos | _AAAI 2021_ | [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/16601/16408) | N/A |
-| Contrastive Learning for Cold-Start Recommendation | CLCRec | _MM 2021_ | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475665) | [[CODE]](https://github.com/weiyinwei/CLCRec)  | 
-| Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation | Heater | _SIGIR 2020_ | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401178) | [[CODE]](https://github.com/Zziwei/Heater--Cold-Start-Recommendation) |
-| How to Learn Item Representation for Cold-Start Multimedia Recommendation? | MTPR | _MM 2020_ | [[PDF]](https://bio.duxy.cc/papers/mm2020-MTPR.pdf) | [[CODE]](https://github.com/duxy-me/MTPR) |
-| Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings | MetaEmbedding | _SIGIR 2019_ | [[PDF]](https://dl.acm.org/doi/10.1145/3331184.3331268) | [[CODE]](https://github.com/Feiyang/MetaEmbedding) | 
-| From Zero-Shot Learning to Cold-Start Recommendation | LLAE | _AAAI 2019_ | [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/4324/4202) | [[CODE]](https://github.com/lijin118/LLAE) | 
-| DropoutNet: Addressing Cold Start in Recommender Systems | DropoutNet | _NIPS 2017_ | [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2017/file/dbd22ba3bd0df8f385bdac3e9f8be207-Paper.pdf) | [[CODE]](https://github.com/layer6ai-labs/DropoutNet) |
-| Deep Content-based Music Recommendation | DeepMusic | _NIPS 2013_ | [[PDF]](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf) | N/A |
