@@ -1,5 +1,4 @@
 # Awesome-Cold-Start-Recommendation
-A curated list of papers on cold-start recommendations.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) 
 ![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation?color=green)
