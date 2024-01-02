@@ -24,8 +24,16 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (SIGIR 2023) **Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3539618.3592078)
 
+(TOIS 2023) **User Cold-Start Recommendation via Inductive Heterogeneous Graph Neural Network** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560487)
+
 ### Year 2022
+(SIGIR 2022) **Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531797)
+
+(SIGIR 2022) **Socially-aware Dual Contrastive Learning for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531780)
+
 (SIGIR 2022) **Generative Adversarial Framework for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531897) [[Code]](https://github.com/zfnWong/GAR)
+
+(SIGIR 2022) **Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder** [[Paper]](https://arxiv.org/pdf/2205.13795.pdf) [[Code]](https://github.com/BestActionNow/CVAR)
 
 (ICDE 2022) **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** [[Paper]](https://arxiv.org/pdf/2203.16863.pdf) [[Code]](https://github.com/cjx96/CDRIB)
 
@@ -39,6 +47,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (MM 2021) **Contrastive Learning for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475665) [[Code]](https://github.com/weiyinwei/CLCRec)
 
 ### Year 2020 & Before
+(KDD 2020) **MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2007.03183.pdf) [[Code]](https://github.com/dongmanqing/Code-for-MAMO)
+
+(KDD 2020) **Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation** [[Paper]](https://yuanfulu.github.io/publication/KDD-MetaHIN.pdf) [[Code]](https://github.com/rootlu/MetaHIN)
+
 (SIGIR 2020) **Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401178) [[Code]](https://github.com/Zziwei/Heater--Cold-Start-Recommendation)
 
 (MM 2020) **How to Learn Item Representation for Cold-Start Multimedia Recommendation?** [[Paper]](https://bio.duxy.cc/papers/mm2020-MTPR.pdf) [[Code]](https://github.com/duxy-me/MTPR)
