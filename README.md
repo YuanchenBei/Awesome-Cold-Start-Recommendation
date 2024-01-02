@@ -1,5 +1,5 @@
 # Awesome-Cold-Start-Recommendation
-
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) 
 ![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation?color=green)
 
