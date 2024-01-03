@@ -29,6 +29,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (WWW 2023) **ColdNAS: Search to Modulate for User Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583344) [[Code]](https://github.com/LARS-research/ColdNAS)
 
+(ICDE 2023) **Automatic Fusion Network for Cold-start CVR Prediction with Explicit Multi-Level Representation** [[Paper]](https://ieeexplore.ieee.org/document/10184698) [[Code]](https://github.com/Scarlett2333/autofuse)
+
+(WSDM 2023) **Meta Policy Learning for Cold-Start Conversational Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570443) [[Code]](https://github.com/zdchu/MetaCRS)
+
 (CIKM 2023) **An Unified Search and Recommendation Foundation Model for Cold-Start Scenario** [[Paper]](https://arxiv.org/pdf/2309.08939.pdf)
 
 (CIKM 2023) **Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614972) [[Code]](https://github.com/xuan92ta/WDoF)
@@ -41,7 +45,7 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (CIKM 2023) **Boosting Meta-Learning Cold-Start Recommendation with Graph Neural Network** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3615283)
 
-(ICDE 2023) **Automatic Fusion Network for Cold-start CVR Prediction with Explicit Multi-Level Representation** [[Paper]](https://ieeexplore.ieee.org/document/10184698) [[Code]](https://github.com/Scarlett2333/autofuse)
+(RecSys 2023) **Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608845)
 
 (TOIS 2023) **User Cold-Start Recommendation via Inductive Heterogeneous Graph Neural Network** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560487)
 
@@ -65,6 +69,20 @@ This repository contains a curated list of papers on **cold-start user/item reco
 ### Year 2021
 (SIGIR 2021) **Sequential Recommendation for Cold-start Users with Meta Transitional Learning**  [[Paper]](https://arxiv.org/pdf/2107.06427.pdf) [[Code]](https://github.com/wangjlgz/MetaTL)
 
+(SIGIR 2021) **Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462843)
+
+(SIGIR 2021) **Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction** [[Paper]](https://arxiv.org/pdf/2105.08909.pdf) [[Code]](https://github.com/oywtece/gme)
+
+(SIGIR 2021) **FORM: Follow the Online Regularized Meta-Leader for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462831)
+
+(SIGIR 2021) **Privileged Graph Distillation for Cold Start Recommendation** [[Paper]](https://arxiv.org/pdf/2105.14975.pdf)
+
+(SIGIR 2021) **Fairness among New Items in Cold Start Recommender Systems** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462948) [[Code]](https://github.com/Zziwei/Fairness-in-Cold-Start-Recommendation)
+
+(SIGIR 2021) **Cluster-Based Bandits: Fast Cold-Start for Recommender System New Users** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3463033)
+
+(SIGIR 2021) **Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users** [[Paper]](https://arxiv.org/pdf/2105.04785.pdf)
+
 (WWW 2021) **Task-adaptive Neural Process for User Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449908) [[Code]](https://github.com/IIEdm/TaNP)
 
 (AAAI 2021) **Cold-start Sequential Recommendation via Meta Learner** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16601/16408)
@@ -77,6 +95,14 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (KDD 2020) **Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation** [[Paper]](https://yuanfulu.github.io/publication/KDD-MetaHIN.pdf) [[Code]](https://github.com/rootlu/MetaHIN)
 
 (SIGIR 2020) **Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401178) [[Code]](https://github.com/Zziwei/Heater--Cold-Start-Recommendation)
+
+(SIGIR 2020) **CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network** [[Paper]](https://arxiv.org/pdf/2005.10549.pdf) [[Code]](https://github.com/AkiraZC/CATN)
+
+(SIGIR 2020) **Content-aware Neural Hashing for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2006.00617.pdf) [[Code]](https://github.com/casperhansen/NeuHash-CF)
+
+(SIGIR 2020) **A Heterogeneous Graph Neural Model for Cold-start Recommendation** [[Paper]](https://eprints.gla.ac.uk/215377/1/215377.pdf)
+
+(SIGIR 2020) **DCDIR: A Deep Cross-Domain Recommendation System for Cold Start Users in Insurance Domain** [[Paper]](https://arxiv.org/pdf/2007.13316.pdf)
 
 (MM 2020) **How to Learn Item Representation for Cold-Start Multimedia Recommendation?** [[Paper]](https://bio.duxy.cc/papers/mm2020-MTPR.pdf) [[Code]](https://github.com/duxy-me/MTPR)
 
