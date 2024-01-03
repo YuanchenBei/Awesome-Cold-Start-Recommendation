@@ -23,6 +23,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (SIGIR 2023) **Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3539618.3592078)
 
+(WWW 2023) **Contrastive Collaborative Filtering for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583286) [[Code]](https://github.com/zzhin/CCFCRec)
+
+(WWW 2023) **ColdNAS: Search to Modulate for User Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583344) [[Code]](https://github.com/LARS-research/ColdNAS)
+
 (CIKM 2023) **An Unified Search and Recommendation Foundation Model for Cold-Start Scenario** [[Paper]](https://arxiv.org/pdf/2309.08939.pdf)
 
 (CIKM 2023) **Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614972) [[Code]](https://github.com/xuan92ta/WDoF)
@@ -38,6 +42,8 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (TOIS 2023) **User Cold-Start Recommendation via Inductive Heterogeneous Graph Neural Network** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560487)
 
 ### Year 2022
+(KDD 2022) **Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations** [[Paper]](https://www.cs.ucdavis.edu/~hchen/paper/liu2022dauc.pdf)
+
 (SIGIR 2022) **Transform Cold-Start Users into Warm via Fused Behaviors in Large-Scale Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531797)
 
 (SIGIR 2022) **Socially-aware Dual Contrastive Learning for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531780)
@@ -45,6 +51,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (SIGIR 2022) **Generative Adversarial Framework for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531897) [[Code]](https://github.com/zfnWong/GAR)
 
 (SIGIR 2022) **Improving Item Cold-start Recommendation via Model-agnostic Conditional Variational Autoencoder** [[Paper]](https://arxiv.org/pdf/2205.13795.pdf) [[Code]](https://github.com/BestActionNow/CVAR)
+
+(WWW 2022) **Alleviating Cold-start Problem in CTR Prediction with A Variational Embedding Learning Framework** [[Paper]](https://arxiv.org/pdf/2201.10980.pdf)
+
+(WWW 2022) **PNMTA: A Pretrained Network Modulation and Task Adaptation Approach for User Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3511963) 
 
 (ICDE 2022) **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** [[Paper]](https://arxiv.org/pdf/2203.16863.pdf) [[Code]](https://github.com/cjx96/CDRIB)
 
