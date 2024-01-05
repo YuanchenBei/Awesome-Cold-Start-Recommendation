@@ -66,6 +66,18 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (ICDE 2022) **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** [[Paper]](https://arxiv.org/pdf/2203.16863.pdf) [[Code]](https://github.com/cjx96/CDRIB)
 
+(CIKM 2022) **Generative Adversarial Zero-Shot Learning for Cold-Start News Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557335)
+
+(CIKM 2022) **GIFT: Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction** [[Paper]](https://arxiv.org/pdf/2202.11525.pdf) 
+
+(CIKM 2022) **Addressing Cold Start in Product Search via Empirical Bayes** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557066)
+
+(CIKM 2022) **Multimodal Meta-Learning for Cold-Start Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557101) [[Code]](https://github.com/Cleanspeech317/Multimodal-Meta-Learning-for-Cold-Start-Sequential-Recommendation)
+
+(CIKM 2022) **Task Similarity Aware Meta Learning for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557709)
+
+(CIKM 2022) **Revisiting Cold-Start Problem in CTR Prediction: Augmenting Embedding via GAN** [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557684)
+
 ### Year 2021
 (SIGIR 2021) **Sequential Recommendation for Cold-start Users with Meta Transitional Learning**  [[Paper]](https://arxiv.org/pdf/2107.06427.pdf) [[Code]](https://github.com/wangjlgz/MetaTL)
 
