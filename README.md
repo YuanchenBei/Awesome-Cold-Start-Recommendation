@@ -11,6 +11,8 @@ This repository contains a curated list of papers on **cold-start user/item reco
 ### Year 2024
 (AAAI 2024) **Temporally and Distributionally Robust Optimization for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2312.09901.pdf) [[Code]](https://github.com/Linxyhaha/TDRO)
 
+(AAAI 2024) **Preference Aware Dual Contrastive Learning for Item Cold-Start Recommendation**
+
 (WSDM 2024) **CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process**
 
 (WSDM 2024) **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation**
@@ -66,6 +68,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (ICDE 2022) **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** [[Paper]](https://arxiv.org/pdf/2203.16863.pdf) [[Code]](https://github.com/cjx96/CDRIB)
 
+(AAAI 2022) **A Dynamic Meta-Learning Model for Time-Sensitive Cold-Start Recommendations** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20756/20515) [[Code]](https://github.com/ritmininglab/A-Dynamic-Meta-Learning-Model-for-Time-Sensitive-Cold-Start-Recommendations)
+
+(AAAI 2022) **SMINet: State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20824/20583) [[Code]](https://github.com/wanjietao/Fliggy-SMINet-AAAI2022)
+
 (CIKM 2022) **Generative Adversarial Zero-Shot Learning for Cold-Start News Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557335)
 
 (CIKM 2022) **GIFT: Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction** [[Paper]](https://arxiv.org/pdf/2202.11525.pdf) 
@@ -79,6 +85,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (CIKM 2022) **Revisiting Cold-Start Problem in CTR Prediction: Augmenting Embedding via GAN** [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557684)
 
 ### Year 2021
+(KDD 2021) **Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation** [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467427) [[Code]](https://github.com/qianlima-lab/MvDGAE)
+
+(KDD 2021) **A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps** [[Paper]](https://arxiv.org/pdf/2106.03819.pdf) [[Code]](https://github.com/deezer/semi_perso_user_cold_start)
+
 (SIGIR 2021) **Sequential Recommendation for Cold-start Users with Meta Transitional Learning**  [[Paper]](https://arxiv.org/pdf/2107.06427.pdf) [[Code]](https://github.com/wangjlgz/MetaTL)
 
 (SIGIR 2021) **Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462843)
@@ -99,7 +109,17 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (AAAI 2021) **Cold-start Sequential Recommendation via Meta Learner** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16601/16408)
 
+(AAAI 2021) **Personalized Adaptive Meta Learning for Cold-start User Preference Prediction** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17287/17094)
+
+(IJCAI 2021) **Preference-Adaptive Meta-Learning for Cold-Start Recommendation** [[Paper]](https://www.ijcai.org/proceedings/2021/0222.pdf) [[Code]](https://github.com/ustcbeuli/PAML)
+
 (MM 2021) **Contrastive Learning for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475665) [[Code]](https://github.com/weiyinwei/CLCRec)
+
+(CIKM 2021) **Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2108.09141.pdf)
+
+(CIKM 2021) **Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems** [[Paper]](https://arxiv.org/pdf/2108.13592.pdf) [[Code]](https://github.com/LiangjunFeng/MAIL)
+
+(CIKM 2021) **CMML: Contextual Modulation Meta Learning for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2108.10511.pdf)
 
 ### Year 2020 & Before
 (KDD 2020) **MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2007.03183.pdf) [[Code]](https://github.com/dongmanqing/Code-for-MAMO)
@@ -116,7 +136,15 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (SIGIR 2020) **DCDIR: A Deep Cross-Domain Recommendation System for Cold Start Users in Insurance Domain** [[Paper]](https://arxiv.org/pdf/2007.13316.pdf)
 
+(AAAI 2020) **Multi-Feature Discrete Collaborative Filtering for Fast Cold-Start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5360/5216)
+
+(IJCAI 2020) **Internal and Contextual Attention Network for Cold-start Multi-channel Matching in Recommendation** [[Paper]](https://www.ijcai.org/proceedings/2020/0379.pdf) [[Code]](https://github.com/zhijieqiu/ICAN)
+
 (MM 2020) **How to Learn Item Representation for Cold-Start Multimedia Recommendation?** [[Paper]](https://bio.duxy.cc/papers/mm2020-MTPR.pdf) [[Code]](https://github.com/duxy-me/MTPR)
+
+(CIKM 2020) **Dual Autoencoder Network with Swap Reconstruction for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412069) [[Code]](https://github.com/bbjy/DAN)
+
+(CIKM 2020) **Zero-Shot Heterogeneous Transfer Learning from Recommender Systems to Cold-Start Search Retrieval** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412752)
 
 (KDD 2019) **MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/1908.00413.pdf) [[Code]](https://github.com/hoyeoplee/MeLU)
 
@@ -124,7 +152,7 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (AAAI 2019) **From Zero-Shot Learning to Cold-Start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4324/4202) [[Code]](https://github.com/lijin118/LLAE)
 
-(IJCNN 2019) **Meta-Learning for User Cold-Start Recommendation** [[Paper]]()
+(IJCNN 2019) **Meta-Learning for User Cold-Start Recommendation** [[Paper]](https://ieeexplore.ieee.org/document/8852100)
 
 (NIPS 2017) **DropoutNet: Addressing Cold Start in Recommender Systems** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2017/file/dbd22ba3bd0df8f385bdac3e9f8be207-Paper.pdf) [[Code]](https://github.com/layer6ai-labs/DropoutNet)
 
