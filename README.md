@@ -11,9 +11,9 @@ This repository contains a curated list of papers on **cold-start user/item reco
 ### Year 2024
 (AAAI 2024) **Temporally and Distributionally Robust Optimization for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2312.09901.pdf) [[Code]](https://github.com/Linxyhaha/TDRO)
 
-(AAAI 2024) **Preference Aware Dual Contrastive Learning for Item Cold-Start Recommendation**
+(AAAI 2024) **Preference Aware Dual Contrastive Learning for Item Cold-Start Recommendation** 
 
-(WSDM 2024) **CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process**
+(WSDM 2024) **CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process** [[Paper]](https://arxiv.org/pdf/2401.12732.pdf)
 
 (WSDM 2024) **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation**
 
@@ -48,6 +48,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (CIKM 2023) **Boosting Meta-Learning Cold-Start Recommendation with Graph Neural Network** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3615283)
 
 (RecSys 2023) **Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608845)
+
+(IJCNN 2023) **Cross-Modal Content Inference and Feature Enrichment for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2307.02761.pdf)
+
+(TKDE 2023) **Contrastive Proxy Kernel Stein Path Alignment for Cross-Domain Cold-Start Recommendation** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10005854)
 
 (TOIS 2023) **User Cold-Start Recommendation via Inductive Heterogeneous Graph Neural Network** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560487)
 
