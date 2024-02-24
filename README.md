@@ -9,6 +9,8 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 -----
 ### Year 2024
+(Arxiv 2024) **Large Language Model Interaction Simulator for Cold-Start Item Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176.pdf)
+
 (AAAI 2024) **Temporally and Distributionally Robust Optimization for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2312.09901.pdf) [[Code]](https://github.com/Linxyhaha/TDRO)
 
 (AAAI 2024) **Preference Aware Dual Contrastive Learning for Item Cold-Start Recommendation** 
