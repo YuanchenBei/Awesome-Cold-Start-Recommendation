@@ -57,6 +57,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (TOIS 2023) **User Cold-Start Recommendation via Inductive Heterogeneous Graph Neural Network** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3560487)
 
+(TOIS 2023) **A Multi-Strategy based Pre-Training Method for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2112.02275.pdf)
+
+(TORS 2023) **User Cold-start Problem in Multi-armed Bandits: When the First Recommendations Guide the User’s Experience** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3554819)
+
 ### Year 2022
 (KDD 2022) **Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations** [[Paper]](https://www.cs.ucdavis.edu/~hchen/paper/liu2022dauc.pdf)
 
@@ -151,6 +155,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (CIKM 2020) **Dual Autoencoder Network with Swap Reconstruction for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412069) [[Code]](https://github.com/bbjy/DAN)
 
 (CIKM 2020) **Zero-Shot Heterogeneous Transfer Learning from Recommender Systems to Cold-Start Search Retrieval** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412752)
+
+(TKDE 2020) **Attribute Graph Neural Networks for Strict Cold Start Recommendation** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9261110)
+
+(TKDE 2020) **MetaKG: Meta-learning on Knowledge Graph for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2202.03851.pdf) [[Code]](https://github.com/ZJU-DAILY/MetaKG)
 
 (KDD 2019) **MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/1908.00413.pdf) [[Code]](https://github.com/hoyeoplee/MeLU)
 
