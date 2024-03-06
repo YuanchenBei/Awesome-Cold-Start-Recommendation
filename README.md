@@ -171,3 +171,5 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (NIPS 2017) **DropoutNet: Addressing Cold Start in Recommender Systems** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2017/file/dbd22ba3bd0df8f385bdac3e9f8be207-Paper.pdf) [[Code]](https://github.com/layer6ai-labs/DropoutNet)
 
 (NIPS 2013) **Deep Content-based Music Recommendation** [[Paper]](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
+
+(SIGIR 2001) **Generative Models for Cold-Start Recommendations** [[Paper]](https://www.andrewschein.com/publications/aispopung_rec.pdf)
