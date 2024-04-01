@@ -15,6 +15,8 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (AAAI 2024) **Preference Aware Dual Contrastive Learning for Item Cold-Start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28763)
 
+(ICASSP 2024) **Mutual Information Assisted Graph Convolution Network for Cold-Start Recommendation** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10447656)
+
 (WSDM 2024) **CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process** [[Paper]](https://arxiv.org/pdf/2401.12732.pdf)
 
 (WSDM 2024) **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635807) [[Code]](https://github.com/Applied-Machine-Learning-Lab/Diff-MSR)
