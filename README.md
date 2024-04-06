@@ -21,6 +21,8 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (WSDM 2024) **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635807) [[Code]](https://github.com/Applied-Machine-Learning-Lab/Diff-MSR)
 
+(T-Recsys 2024) **Cold-Start Recommendation based on Knowledge Graph and Meta-Learning under Positive and Negative sampling** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3654804) [[Code]](https://gitee.com/kyle-liao/crkm)
+
 
 ### Year 2023
 (SIGIR 2023) **Aligning Distillation For Cold-start Item Recommendation** [[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591732) [[Code]](https://github.com/zfnWong/ALDI) 
