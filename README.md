@@ -9,8 +9,6 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 -----
 ### Year 2024
-(Arxiv 2024) **Large Language Model Interaction Simulator for Cold-Start Item Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176.pdf)
-
 (WWW 2024) **Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2306.17256.pdf) [[Code]](https://github.com/JacksonWuxs/PromptRec)
 
 (AAAI 2024) **Temporally and Distributionally Robust Optimization for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2312.09901.pdf) [[Code]](https://github.com/Linxyhaha/TDRO)
@@ -24,6 +22,8 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (WSDM 2024) **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635807) [[Code]](https://github.com/Applied-Machine-Learning-Lab/Diff-MSR)
 
 (T-Recsys 2024) **Cold-Start Recommendation based on Knowledge Graph and Meta-Learning under Positive and Negative sampling** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3654804) [[Code]](https://gitee.com/kyle-liao/crkm)
+
+(Arxiv 2024) **Large Language Model Interaction Simulator for Cold-Start Item Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176.pdf)
 
 
 ### Year 2023
