@@ -41,6 +41,8 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (ICDE 2023) **Automatic Fusion Network for Cold-start CVR Prediction with Explicit Multi-Level Representation** [[Paper]](https://ieeexplore.ieee.org/document/10184698) [[Code]](https://github.com/Scarlett2333/autofuse)
 
+(MM 2023) **GoRec: A Generative Cold-Start Recommendation Framework** [[Paper]](https://le-wu.com/files/Publications/CONFERENCES/MM23-GoRec-bai.pdf) [[Code]](https://github.com/HaoyueBai98/GoRec)
+
 (WSDM 2023) **Meta Policy Learning for Cold-Start Conversational Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570443) [[Code]](https://github.com/zdchu/MetaCRS)
 
 (CIKM 2023) **An Unified Search and Recommendation Foundation Model for Cold-Start Scenario** [[Paper]](https://arxiv.org/pdf/2309.08939.pdf)
