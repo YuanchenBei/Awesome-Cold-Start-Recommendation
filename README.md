@@ -23,7 +23,11 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (T-Recsys 2024) **Cold-Start Recommendation based on Knowledge Graph and Meta-Learning under Positive and Negative sampling** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3654804) [[Code]](https://gitee.com/kyle-liao/crkm)
 
+(WWW 2024 Companion) **Large Language Models as Data Augmenters for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651532)
+
 (Arxiv 2024) **Large Language Model Interaction Simulator for Cold-Start Item Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176.pdf)
+
+(Arxiv 2024) **Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations** [[Paper]](https://arxiv.org/pdf/2405.19612)
 
 
 ### Year 2023
@@ -181,3 +185,7 @@ This repository contains a curated list of papers on **cold-start user/item reco
 (NIPS 2013) **Deep Content-based Music Recommendation** [[Paper]](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 
 (SIGIR 2001) **Generative Models for Cold-Start Recommendations** [[Paper]](https://www.andrewschein.com/publications/aispopung_rec.pdf)
+
+### Open-Source Toolkit
+
+**ColdRec: An Open-Source Benchmark Toolbox for Cold-Start Recommendation** [[Github]](https://github.com/YuanchenBei/ColdRec)
