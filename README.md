@@ -3,11 +3,15 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) 
 ![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation?color=green)
 
-This repository contains a curated list of papers on **cold-start user/item recommendations**, which are sorted by their published years.
+This repository contains a curated list of papers on **cold-start recommendations**, which are sorted by their published years, hoping to provide a more comprehensive literature base for the cold-start recommendation research community.
 
 *Continuously updating!*
 
+🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new papers.
+
 -----
+## Research Papers
+
 ### Year 2024
 (WWW 2024) **Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2306.17256.pdf) [[Code]](https://github.com/JacksonWuxs/PromptRec)
 
@@ -106,6 +110,10 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (CIKM 2022) **Revisiting Cold-Start Problem in CTR Prediction: Augmenting Embedding via GAN** [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557684)
 
+(TKDE 2022) **MetaKG: Meta-Learning on Knowledge Graph for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2202.03851) [[Code]](https://github.com/ZJU-DAILY/MetaKG)
+
+(TKDE 2022) **Cross-Domain Meta-Learner for Cold-Start Recommendation** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9904902)
+
 ### Year 2021
 (KDD 2021) **Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation** [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467427) [[Code]](https://github.com/qianlima-lab/MvDGAE)
 
@@ -186,6 +194,6 @@ This repository contains a curated list of papers on **cold-start user/item reco
 
 (SIGIR 2001) **Generative Models for Cold-Start Recommendations** [[Paper]](https://www.andrewschein.com/publications/aispopung_rec.pdf)
 
-### Open-Source Toolkit
+## Open-Source Toolkit
 
-**ColdRec: An Open-Source Benchmark Toolbox for Cold-Start Recommendation** [[Github]](https://github.com/YuanchenBei/ColdRec)
+🤖 **ColdRec: An Open-Source Benchmark Toolbox for Cold-Start Recommendation** [[Github]](https://github.com/YuanchenBei/ColdRec)
