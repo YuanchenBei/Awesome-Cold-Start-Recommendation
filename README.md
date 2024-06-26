@@ -9,7 +9,6 @@ This repository contains a curated list of papers on **cold-start recommendation
 
 🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new papers.
 
-<font size=5><center><b> Table of Contents </b> </center></font>
 - [Research Papers](#research-papers)
   - [Year 2024](#year-2024)
   - [Year 2023](#year-2023)
@@ -17,7 +16,7 @@ This repository contains a curated list of papers on **cold-start recommendation
   - [Year 2021](#year-2021)
   - [Year 2020 & Before](#year-2020--before)
 - [Open-Source Toolkit](#open-source-toolkit)
-- 
+
 -----
 ## Research Papers
 
