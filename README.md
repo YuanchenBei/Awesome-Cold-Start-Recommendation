@@ -21,6 +21,10 @@ This repository contains a curated list of papers on **cold-start recommendation
 ## Research Papers
 
 ### Year 2024
+(SIGIR 2024) **CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657839)
+
+(SIGIR 2024) **Content-based Graph Reconstruction for Cold-start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657801)
+
 (WWW 2024) **Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2306.17256.pdf) [[Code]](https://github.com/JacksonWuxs/PromptRec)
 
 (AAAI 2024) **Temporally and Distributionally Robust Optimization for Cold-start Recommendation** [[Paper]](https://arxiv.org/pdf/2312.09901.pdf) [[Code]](https://github.com/Linxyhaha/TDRO)
