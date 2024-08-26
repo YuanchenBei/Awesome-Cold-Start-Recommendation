@@ -21,6 +21,8 @@ This repository contains a curated list of papers on **cold-start recommendation
 ## Research Papers
 
 ### Year 2024
+(KDD 2024) **Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions** [[Paper]](https://arxiv.org/pdf/2407.10112)
+
 (SIGIR 2024) **CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657839)
 
 (SIGIR 2024) **Content-based Graph Reconstruction for Cold-start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657801)
@@ -37,7 +39,7 @@ This repository contains a curated list of papers on **cold-start recommendation
 
 (WSDM 2024) **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635807) [[Code]](https://github.com/Applied-Machine-Learning-Lab/Diff-MSR)
 
-(T-Recsys 2024) **Cold-Start Recommendation based on Knowledge Graph and Meta-Learning under Positive and Negative sampling** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3654804) [[Code]](https://gitee.com/kyle-liao/crkm)
+(TORS 2024) **Cold-Start Recommendation based on Knowledge Graph and Meta-Learning under Positive and Negative sampling** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3654804) [[Code]](https://gitee.com/kyle-liao/crkm)
 
 (WWW 2024 Companion) **Large Language Models as Data Augmenters for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651532)
 
