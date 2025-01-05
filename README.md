@@ -414,18 +414,57 @@
 
 - (WWW 2019) **Preliminary Investigation of Alleviating User Cold-Start Problem in E-commerce with Deep Cross-Domain Recommender System** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3308560.3316596)
 
-
 - (ICDM 2018) **A General Cross-domain Recommendation Framework via Bayesian Neural Network** [[Paper]](https://freshricardo.github.io/publications/ICDM.pdf)
 
 - (WWW 2015) **A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2736277.2741667)
+
 
 ---
 ### World Knowledge from LLMs [[Back to Top](#awesome-cold-start-recommendation)]
 #### LLMs as the Recommender System
 ##### 🚩 Prompting LLMs for Recommendation
+- (COLING 2025) **Taxonomy-Guided Zero-Shot Recommendations with LLMs** [[Paper]](https://arxiv.org/pdf/2406.14043) [[Code]](https://github.com/yueqingliang1/TaxRec)
+  
+- (ECIR 2024) **Large Language Models are Zero-Shot Rankers for Recommender Systems** [[Paper]](https://arxiv.org/pdf/2305.08845) [[Code]](https://github.com/RUCAIBox/LLMRank)
+  
+- (SIGIR 2024) **Large Language Models for Next Point-of-Interest Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657840) [[Code]](https://github.com/neolifer/LLM4POI)
+
+- (SIGIR 2024 IR-RAG) **RAGSys: Item-Cold-Start Recommender as RAG System** [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657984)
+  
+- (WWW 2024) **Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendations** [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645671) [[Code]](https://github.com/JacksonWuxs/PromptRec)
+  
+- (CAI 2024) **Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation** [[Paper]](https://ieeexplore.ieee.org/document/10605522) [[Code]](https://github.com/LLMMove/LLMMove)
+  
+- (Arxiv 2024) **Large Language Models as Conversational Movie Recommenders: A User Study** [[Paper]](https://arxiv.org/pdf/2404.19093)
+  
+- (Arxiv 2024) **Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models** [[Paper]](https://arxiv.org/pdf/2402.08670)
+  
+- (Arxiv 2024) **Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations** [[Paper]](https://arxiv.org/pdf/2405.19612)
+  
+- (Arxiv 2024) **CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation** [[Paper]](https://arxiv.org/pdf/2403.06447)
+  
+- (RecSys 2023) **Large Language Model Augmented Narrative Driven Recommendations** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608829)
+  
+- (RecSys 2023) **Retrieval-augmented Recommender System: Enhancing Recommender Systems with Large Language Models** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608889)
+  
+- (RecSys 2023) **Uncovering ChatGPT’s Capabilities in Recommender Systems** [[Paper]](https://dl.acm.org/doi/10.1145/3604915.3610646) [[Code]](https://github.com/rainym00d/LLM4RS)
+  
+- (RecSys 2023) **Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608845)
+  
+- (EMNLP 2023) **LLM4Vis: Explainable Visualization Recommendation using ChatGPT** [[Paper]](https://aclanthology.org/2023.emnlp-industry.64.pdf) [[Code]](https://github.com/demoleiwang/LLM4Vis)
+  
+- (CIKM 2023) **Large Language Models as Zero-Shot Conversational Recommenders** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614949) [[Code]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys)
+  
+- (CIKM 2023 Personalized Generative AI) **Is ChatGPT a Good Recommender? A Preliminary Study** [[Paper]](https://arxiv.org/pdf/2304.10149) [[Code]](https://github.com/williamliujl/LLMRec)
+  
+- (Arxiv 2023) **Zero-Shot Next-Item Recommendation using Large Pretrained Language Models** [[Paper]](https://arxiv.org/pdf/2304.03153) [[Code]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec)
+  
+- (ECIR 2022) **Zero-Shot Recommendation as Language Modeling** [[Paper]](https://arxiv.org/pdf/2112.04184) [[Code]](https://github.com/sileod/language-model-recommendation)
+
 
 ---
 ##### 🚩 Efficient Tuning LLMs for Recommendation
+
 
 ---
 #### LLMs as the Knowledge Enhancer
