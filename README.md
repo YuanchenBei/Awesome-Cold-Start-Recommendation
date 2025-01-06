@@ -464,7 +464,7 @@
 
 ---
 ##### 🚩 Efficient Tuning LLMs for Recommendation
-- (ACL 2024) **Text-like Encoding of Collaborative Information in Large Language Models for Recommendation** [[Paper]](https://aclanthology.org/2024.acl-long.497.pdf）[[Code]](https://github.com/zyang1580/BinLLM)
+- (ACL 2024) **Text-like Encoding of Collaborative Information in Large Language Models for Recommendation** [[Paper]](https://aclanthology.org/2024.acl-long.497.pdf) [[Code]](https://github.com/zyang1580/BinLLM)
   
 - (KDD 2024) **Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System** [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3671931）[[Code]](https://github.com/ghdtjr/A-LLMRec)
   
@@ -472,9 +472,9 @@
   
 - (SIGIR 2024) **IDGenRec: LLM-RecSys Alignment with Textual ID Learning** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657821）[[Code]](https://github.com/agiresearch/IDGenRec)
   
-- (WWW 2024) **NoteLLM: A Retrievable Large Language Model for Note Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3589335.3648314）[[Code]]()
+- (WWW 2024) **NoteLLM: A Retrievable Large Language Model for Note Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3589335.3648314）
   
-- (Arxiv 2024) **NoteLLM-2: Multimodal Large Representation Models for Recommendation** [[Paper]](NoteLLM-2: Multimodal Large Representation Models for Recommendation）[[Code]]()
+- (Arxiv 2024) **NoteLLM-2: Multimodal Large Representation Models for Recommendation** [[Paper]](https://arxiv.org/pdf/2405.16789）
   
 - (Arxiv 2024) **Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation** [[Paper]](https://arxiv.org/pdf/2406.03085）[[Code]](https://github.com/TingJShen/URLLM)
   
