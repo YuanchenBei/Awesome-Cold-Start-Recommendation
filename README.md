@@ -429,7 +429,7 @@
   
 - (SIGIR 2024) **Large Language Models for Next Point-of-Interest Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657840) [[Code]](https://github.com/neolifer/LLM4POI)
 
-- (SIGIR 2024 IR-RAG) **RAGSys: Item-Cold-Start Recommender as RAG System** [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657984)
+- (SIGIR Workshop 2024) **RAGSys: Item-Cold-Start Recommender as RAG System** [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657984)
   
 - (WWW 2024) **Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendations** [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645671) [[Code]](https://github.com/JacksonWuxs/PromptRec)
   
@@ -455,7 +455,7 @@
   
 - (CIKM 2023) **Large Language Models as Zero-Shot Conversational Recommenders** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614949) [[Code]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys)
   
-- (CIKM 2023 Personalized Generative AI) **Is ChatGPT a Good Recommender? A Preliminary Study** [[Paper]](https://arxiv.org/pdf/2304.10149) [[Code]](https://github.com/williamliujl/LLMRec)
+- (CIKM Workshop 2023) **Is ChatGPT a Good Recommender? A Preliminary Study** [[Paper]](https://arxiv.org/pdf/2304.10149) [[Code]](https://github.com/williamliujl/LLMRec)
   
 - (Arxiv 2023) **Zero-Shot Next-Item Recommendation using Large Pretrained Language Models** [[Paper]](https://arxiv.org/pdf/2304.03153) [[Code]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec)
   
@@ -464,7 +464,36 @@
 
 ---
 ##### 🚩 Efficient Tuning LLMs for Recommendation
+- (ACL 2024) **Text-like Encoding of Collaborative Information in Large Language Models for Recommendation** [[Paper]](https://aclanthology.org/2024.acl-long.497.pdf）[[Code]](https://github.com/zyang1580/BinLLM)
+  
+- (KDD 2024) **Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System** [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3671931）[[Code]](https://github.com/ghdtjr/A-LLMRec)
+  
+- (KDD 2024) **Bridging Items and Language: A Transition Paradigm for Large Language Model-Based Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671884）[[Code]](https://github.com/Linxyhaha/TransRec)
+  
+- (SIGIR 2024) **IDGenRec: LLM-RecSys Alignment with Textual ID Learning** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657821）[[Code]](https://github.com/agiresearch/IDGenRec)
+  
+- (WWW 2024) **NoteLLM: A Retrievable Large Language Model for Note Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3589335.3648314）[[Code]]()
+  
+- (Arxiv 2024) **NoteLLM-2: Multimodal Large Representation Models for Recommendation** [[Paper]](NoteLLM-2: Multimodal Large Representation Models for Recommendation）[[Code]]()
+  
+- (Arxiv 2024) **Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation** [[Paper]](https://arxiv.org/pdf/2406.03085）[[Code]](https://github.com/TingJShen/URLLM)
+  
+- (Arxiv 2024) **XRec: Large Language Models for Explainable Recommendation** [[Paper]](https://arxiv.org/pdf/2406.02377）[[Code]](https://github.com/HKUDS/XRec)
+  
+- (Arxiv 2024) **Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis** [[Paper]](https://arxiv.org/pdf/2401.04997）
+  
+- (Arxiv 2024) **Leveraging LLM Reasoning Enhances Personalized Recommender Systems** [[Paper]](https://arxiv.org/pdf/2408.00802）
+  
+- (RecSys 2023) **TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation** [[Paper]](https://dl.acm.org/doi/10.1145/3604915.3608857）[[Code]](https://github.com/SAI990323/TALLRec)
 
+- (CIKM 2023) **Prompt Distillation for Efficient LLM-based Recommendation** [[Paper]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf）[[Code]](https://github.com/lileipisces/POD)
+  
+- (Arxiv 2023) **CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation** [[Paper]](https://arxiv.org/pdf/2310.19488）[[Code]](https://github.com/zyang1580/CoLLM)
+  
+- (Arxiv 2023) **Leveraging Large Language Models for Pre-trained Recommender Systems** [[Paper]](https://arxiv.org/pdf/2308.10837）
+  
+- (RecSys 2023) **Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5)** [[Paper]](https://dl.acm.org/doi/10.1145/3523227.3546767）[[Code]](https://github.com/jeykigung/P5)  
+  
 
 ---
 #### LLMs as the Knowledge Enhancer
