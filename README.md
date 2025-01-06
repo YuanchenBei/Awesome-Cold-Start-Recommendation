@@ -10,7 +10,7 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation"/></a>
 </div>
 
-📚 This repository contains a curated list of papers on **cold-start recommendation (CSR)**, based on the survey paper "Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap". (Coming soon!) We hope to provide a more comprehensive literature base for the cold-start recommendation research and industrial community.
+📚 This repository contains a curated list of papers on **cold-start recommendation (CSR)**, based on the survey paper "[Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap](https://arxiv.org/pdf/2501.01945)". We hope to provide a more comprehensive literature base for the cold-start recommendation research and industrial community.
 
 *Continuously updating!*
 
@@ -772,7 +772,7 @@
 
 | **Paper Title** | **Venue** | **Paper Link** | **Resource Link** |
 | --------------- | :--------: | :--------: | :--------: | 
-| 🌟 Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap | Arxiv 2025 | Coming soon! | This repository | 
+| 🌟 Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap | Arxiv 2025 | [[Paper]](https://arxiv.org/pdf/2501.01945) | This repository | 
 | User Cold Start Problem in Recommendation Systems: A Systematic Review | IEEE Access 2023 | [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10339320) | N/A |  
 | Approaches and algorithms to mitigate cold start problems in recommender systems: a systematic literature review | JIIS 2022 | [[Paper]](https://link.springer.com/article/10.1007/s10844-022-00698-5) | N/A |
 | Eliciting Auxiliary Information for Cold Start User Recommendation: A Survey | Applied Sciences 2021 | [[Paper]](https://www.mdpi.com/2076-3417/11/20/9608/pdf) | N/A |
