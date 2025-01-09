@@ -790,5 +790,10 @@
 
 ## Citation
 ```
-
+@article{zhang2025cold,
+  title={Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap},
+  author={Zhang, Weizhi and Bei, Yuanchen and Yang, Liangwei and Zou, Henry Peng and Zhou, Peilin and Liu, Aiwei and Li, Yinghui and Chen, Hao and Wang, Jianling and Wang, Yu and others},
+  journal={arXiv preprint arXiv:2501.01945},
+  year={2025}
+}
 ```
