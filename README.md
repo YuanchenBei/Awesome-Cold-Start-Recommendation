@@ -556,6 +556,12 @@
 
 - (RecSys 2024) **Prompt Tuning for Item Cold-start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3640457.3688126) [[Code]](https://github.com/PROMOREC/PROMO)
 
+- (RecSys 2024) **A Multi-modal Modeling Framework for Cold-start Short-video Recommendation** [[Paper]](https://dl.acm.org/doi/10.1145/3640457.3688098)
+
+- (RecSys 2024) **MARec: Metadata Alignment for cold-start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3640457.3688125)
+
+- (RecSys 2024) **Scene-wise Adaptive Network for Dynamic Cold-start Scenes Optimization in CTR Prediction** [[Paper]](https://arxiv.org/pdf/2408.07278) [[Code]](https://github.com/ChrisLiiiii/SwAN)
+
 - (WSDM 2024) **CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process** [[Paper]](https://arxiv.org/pdf/2401.12732.pdf)
 
 - (WSDM 2024) **Diff-MSR: A Diffusion Model Enhanced Paradigm for Cold-Start Multi-Scenario Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635807) [[Code]](https://github.com/Applied-Machine-Learning-Lab/Diff-MSR)
