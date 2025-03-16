@@ -308,6 +308,8 @@
 
 #### Domain Knowledge Transfer
 ##### 🚩 Embedding Mapping
+- (COLING 2025) **Integrating Group-based Preferences from Coarse to Fine for Cold-start Users Recommendation** [[Paper]](https://aclanthology.org/2025.coling-main.153.pdf) [[Code]](https://github.com/sygogo/GRAPECDR)
+
 - (SDM 2024) **Vietoris-Rips Complex: A New Direction for Cross-Domain Cold-Start Recommendation** [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.87) [[Code]](https://github.com/ajaykv1/VRCDR)
 
 - (WSDM 2022) **Personalized Transfer of User Preferences for Cross-domain Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498392) [[Code]](https://github.com/easezyc/WSDM2022-PTUPCDR)
@@ -325,7 +327,6 @@
 - (AAAI 2018) **Transferable Contextual Bandit for Cross-Domain Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11699/11558) [[Code]](https://github.com/HCDM/BanditLib)
 
 - (IJCAI 2017) **Cross-Domain Recommendation: An Embedding and Mapping Approach** [[Paper]](https://static.aminer.cn/upload/pdf/program/59ae3c262bbe271c4c71f007_0.pdf)
-
 
 
 ---
@@ -512,6 +513,8 @@
 
 ---
 ##### 🚩 LLMs for Relation Augmentation
+- (Arxiv 2025) **FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2502.16924)
+
 - (WSDM 2025) **Large Language Model Simulator for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176v2.pdf)
 
 - (WWW 2024) **Large Language Models as Data Augmenters for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651532)
@@ -529,9 +532,15 @@
 ## Research Papers Sorted by Published Time
 
 ### Year 2025 [[Back to Top](#awesome-cold-start-recommendation)]
+- (Arxiv 2025) **FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2502.16924)
+
 - (AAAI 2025) **DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation** [[Paper]](https://arxiv.org/pdf/2412.15005) [[Code]](https://github.com/HourunLi/2025-AAAI-DisCo)
 
 - (WSDM 2025) **Large Language Model Simulator for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176v2.pdf)
+
+- (COLING 2025) **Integrating Group-based Preferences from Coarse to Fine for Cold-start Users Recommendation** [[Paper]](https://aclanthology.org/2025.coling-main.153.pdf) [[Code]](https://github.com/sygogo/GRAPECDR)
+
+- (COLING 2025) **Taxonomy-Guided Zero-Shot Recommendations with LLMs** [[Paper]](https://arxiv.org/pdf/2406.14043) [[Code]](https://github.com/yueqingliang1/TaxRec)
 
 ---
 
