@@ -18,53 +18,53 @@
 
 - [Awesome-Cold-Start-Recommendation](#awesome-cold-start-recommendation)
   - [Taxonomy](#taxonomy)
-    - [Content Features](#content-features--back-to-top)
+    - [Content Features  \[Back to Top\]](#content-features--back-to-top)
       - [Data Incomplete Learning](#data-incomplete-learning)
-        - [Robust Co-Training](#-robust-co-training)
-        - [Knowledge Alignment](#-knowledge-alignment)
-        - [Cold Exploration](#-cold-exploration)
-        - [Feature Similarity Measurement](#-feature-similarity-measurement)
+        - [🚩 Robust Co-Training](#-robust-co-training)
+        - [🚩 Knowledge Alignment](#-knowledge-alignment)
+        - [🚩 Cold Exploration](#-cold-exploration)
+        - [🚩 Feature Similarity Measurement](#-feature-similarity-measurement)
       - [Data Efficient Learning](#data-efficient-learning)
-        - [Meta-Learning Optimization](#-meta-learning-optimization)
-        - [Meta-Task Utilization](#-meta-task-utilization)
-        - [Meta-Embedding Initialization](#-meta-embedding-initialization)
-        - [Sequtial Meta-Learning](#-sequtial-meta-learning)
-    - [Graph Relations](#graph-relations-back-to-top)
+        - [🚩 Meta-Learning Optimization](#-meta-learning-optimization)
+        - [🚩 Meta-Task Utilization](#-meta-task-utilization)
+        - [🚩 Meta-Embedding Initialization](#-meta-embedding-initialization)
+        - [🚩 Sequtial Meta-Learning](#-sequtial-meta-learning)
+    - [Graph Relations \[Back to Top\]](#graph-relations-back-to-top)
       - [Interaction Graph Enhancement](#interaction-graph-enhancement)
-        - [Supplementary Graph Relation](#-supplementary-graph-relation)
-        - [Homophily Network Relation](#-homophily-network-relation)
+        - [🚩 Supplementary Graph Relation](#-supplementary-graph-relation)
+        - [🚩 Homophily Network Relation](#-homophily-network-relation)
       - [Graph Relation Extension](#graph-relation-extension)
-        - [Heterogeneous Graph Relation](#-heterogeneous-graph-relation)
-        - [Attributed Graph Relation](#-attributed-graph-relation)
-        - [Knowledge Graph Relation](#-knowledge-graph-relation)
+        - [🚩 Heterogeneous Graph Relation](#-heterogeneous-graph-relation)
+        - [🚩 Attributed Graph Relation](#-attributed-graph-relation)
+        - [🚩 Knowledge Graph Relation](#-knowledge-graph-relation)
       - [Graph Aggregator Improvement](#graph-aggregator-improvement)
-        - [Aggregation Scope Expansion](#-aggregation-scope-expansion)
-        - [Information Aggregator Augmentation](#-information-aggregator-augmentation)
-    - [Domain Information](#domain-information-back-to-top)
+        - [🚩 Aggregation Scope Expansion](#-aggregation-scope-expansion)
+        - [🚩 Information Aggregator Augmentation](#-information-aggregator-augmentation)
+    - [Domain Information \[Back to Top\]](#domain-information-back-to-top)
       - [Domain Knowledge Transfer](#domain-knowledge-transfer)
-        - [Embedding Mapping](#-embedding-mapping)
-        - [Heterogeneous Connection](#-heterogeneous-connection)
-        - [Learning Process](#-learning-process)
+        - [🚩 Embedding Mapping](#-embedding-mapping)
+        - [🚩 Heterogeneous Connection](#-heterogeneous-connection)
+        - [🚩 Learning Process](#-learning-process)
       - [Domain Distribution Alignment](#domain-distribution-alignment)
-        - [Collaborative Filtering Alignment](#-collaborative-filtering-alignment)
-        - [Auxiliary Feature Alignment](#-auxiliary-feature-alignment)
+        - [🚩 Collaborative Filtering Alignment](#-collaborative-filtering-alignment)
+        - [🚩 Auxiliary Feature Alignment](#-auxiliary-feature-alignment)
       - [Domain-Invariant Representation Learning](#domain-invariant-representation-learning)
-        - [Disentangled Representation](#-disentangled-representation)
-        - [Fusing Representation](#-fusing-representation)
-    - [World Knowledge from LLMs](#world-knowledge-from-llms-back-to-top)
+        - [🚩 Disentangled Representation](#-disentangled-representation)
+        - [🚩 Fusing Representation](#-fusing-representation)
+    - [World Knowledge from LLMs \[Back to Top\]](#world-knowledge-from-llms-back-to-top)
       - [LLMs as the Recommender System](#llms-as-the-recommender-system)
-        - [Prompting LLMs for Recommendation](#-prompting-llms-for-recommendation)
-        - [Efficient Tuning LLMs for Recommendation](#-efficient-tuning-llms-for-recommendation)
+        - [🚩 Prompting LLMs for Recommendation](#-prompting-llms-for-recommendation)
+        - [🚩 Efficient Tuning LLMs for Recommendation](#-efficient-tuning-llms-for-recommendation)
       - [LLMs as the Knowledge Enhancer](#llms-as-the-knowledge-enhancer)
-        - [LLMs for Representation Enhancement](#-llms-for-representation-enhancement)
-        - [LLMs for Relation Augmentation](#-llms-for-relation-augmentation)
+        - [🚩 LLMs for Representation Enhancement](#-llms-for-representation-enhancement)
+        - [🚩 LLMs for Relation Augmentation](#-llms-for-relation-augmentation)
   - [Research Papers Sorted by Published Time](#research-papers-sorted-by-published-time)
-    - [Year 2025](#year-2025-back-to-top)
-    - [Year 2024](#year-2024-back-to-top)
-    - [Year 2023](#year-2023-back-to-top)
-    - [Year 2022](#year-2022-back-to-top)
-    - [Year 2021](#year-2021-back-to-top)
-    - [Year 2020 \& Before](#year-2020--before-back-to-top)
+    - [Year 2025 \[Back to Top\]](#year-2025-back-to-top)
+    - [Year 2024 \[Back to Top\]](#year-2024-back-to-top)
+    - [Year 2023 \[Back to Top\]](#year-2023-back-to-top)
+    - [Year 2022 \[Back to Top\]](#year-2022-back-to-top)
+    - [Year 2021 \[Back to Top\]](#year-2021-back-to-top)
+    - [Year 2020 \& Before \[Back to Top\]](#year-2020--before-back-to-top)
   - [Survey Papers](#survey-papers)
   - [Open-Source Toolkit](#open-source-toolkit)
   - [Citation](#citation)
@@ -424,6 +424,8 @@
 ### World Knowledge from LLMs [[Back to Top](#awesome-cold-start-recommendation)]
 #### LLMs as the Recommender System
 ##### 🚩 Prompting LLMs for Recommendation
+- (WWW 2025) **Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations** [[Paper]](https://arxiv.org/pdf/2405.19612)
+
 - (COLING 2025) **Taxonomy-Guided Zero-Shot Recommendations with LLMs** [[Paper]](https://arxiv.org/pdf/2406.14043) [[Code]](https://github.com/yueqingliang1/TaxRec)
   
 - (ECIR 2024) **Large Language Models are Zero-Shot Rankers for Recommender Systems** [[Paper]](https://arxiv.org/pdf/2305.08845) [[Code]](https://github.com/RUCAIBox/LLMRank)
@@ -439,9 +441,7 @@
 - (Arxiv 2024) **Large Language Models as Conversational Movie Recommenders: A User Study** [[Paper]](https://arxiv.org/pdf/2404.19093)
   
 - (Arxiv 2024) **Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models** [[Paper]](https://arxiv.org/pdf/2402.08670)
-  
-- (Arxiv 2024) **Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations** [[Paper]](https://arxiv.org/pdf/2405.19612)
-  
+    
 - (Arxiv 2024) **CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation** [[Paper]](https://arxiv.org/pdf/2403.06447)
   
 - (RecSys 2023) **Large Language Model Augmented Narrative Driven Recommendations** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608829)
@@ -513,15 +513,21 @@
 
 ---
 ##### 🚩 LLMs for Relation Augmentation
-- (Arxiv 2025) **FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2502.16924)
+
+- (SIGIR 2025) **Comprehending Knowledge Graphs with Large Language Models for Recommender Systems** [[Paper]](https://arxiv.org/pdf/2410.12229)
 
 - (WSDM 2025) **Large Language Model Simulator for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176v2.pdf)
+
+- (ECIR 2025) **LLM is Knowledge Graph Reasoner: LLM’s Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation** [[Paper]](https://arxiv.org/pdf/2412.12464)
+
+- (Arxiv 2025) **FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2502.16924)
+
+- (Arxiv 2025) **Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/pdf/2505.20773)
 
 - (WWW 2024) **Large Language Models as Data Augmenters for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651532)
 
 - (DASFAA 2024) **Common Sense Enhanced Knowledge-based Recommendation with Large Language Model** [[Paper]](https://arxiv.org/pdf/2403.18325) 
 
-- (Arxiv 2024) **Comprehending Knowledge Graphs with Large Language Models for Recommender Systems** [[Paper]](https://arxiv.org/pdf/2410.12229)
 
 
 ---
@@ -799,7 +805,7 @@
 
 ## Open-Source Toolkit
 
-🤖 **ColdRec: An Open-Source Benchmark Toolbox for Cold-Start Recommendation** [[Github]](https://github.com/YuanchenBei/ColdRec) (Under Construction)
+🤖 **ColdRec: An Open-Source Benchmark Toolbox for Cold-Start Recommendation** [[Github]](https://github.com/YuanchenBei/ColdRec)
 
 ---
 
