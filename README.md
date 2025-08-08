@@ -104,6 +104,8 @@
 ---
 
 ##### 🚩 Knowledge Alignment
+- (Arxiv 2025) **SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2508.01375)
+
 - (SIGIR 2024) **CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657839)
 
 - (AAAI 2024) **Preference Aware Dual Contrastive Learning for Item Cold-Start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28763)
@@ -130,6 +132,8 @@
 ---
 
 ##### 🚩 Cold Exploration
+- (RecSys 2025) **Item-centric Exploration for Cold Start Problem** [[Paper]](https://arxiv.org/pdf/2507.09423)
+
 - (WSDM 2023) **Meta Policy Learning for Cold-Start Conversational Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570443) [[Code]](https://github.com/zdchu/MetaCRS)
 
 - (WWW 2023) **ColdNAS: Search to Modulate for User Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583344) [[Code]](https://github.com/LARS-research/ColdNAS)
