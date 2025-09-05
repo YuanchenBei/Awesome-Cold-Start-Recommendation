@@ -467,6 +467,8 @@
 
 ---
 ##### 🚩 Efficient Tuning LLMs for Recommendation
+- (RecSys 2025) **Not Just What, But When: Integrating Irregular Intervals to LLM for Sequential Recommendation** [[Paper]](https://www.arxiv.org/pdf/2507.23209) [[Code]](https://github.com/sony/ds-research-code/tree/master/recsys25-IntervalLLM)
+
 - (ACL 2024) **Text-like Encoding of Collaborative Information in Large Language Models for Recommendation** [[Paper]](https://aclanthology.org/2024.acl-long.497.pdf) [[Code]](https://github.com/zyang1580/BinLLM)
   
 - (KDD 2024) **Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System** [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3671931) [[Code]](https://github.com/ghdtjr/A-LLMRec)
@@ -539,6 +541,8 @@
 ## Research Papers Sorted by Published Time
 
 ### Year 2025 [[Back to Top](#awesome-cold-start-recommendation)]
+- (RecSys 2025) **Not Just What, But When: Integrating Irregular Intervals to LLM for Sequential Recommendation** [[Paper]](https://www.arxiv.org/pdf/2507.23209) [[Code]](https://github.com/sony/ds-research-code/tree/master/recsys25-IntervalLLM)
+
 - (Arxiv 2025) **FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2502.16924)
 
 - (AAAI 2025) **DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation** [[Paper]](https://arxiv.org/pdf/2412.15005) [[Code]](https://github.com/HourunLi/2025-AAAI-DisCo)
