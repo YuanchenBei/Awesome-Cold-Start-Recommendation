@@ -341,9 +341,7 @@
 
 - (AAAI 2023) **REMIT: Reinforced Multi-Interest Transfer for Cross-Domain Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26181/25953) [[Code]](https://github.com/mufusu21/REMIT)
 
-
 - (TKDE 2015) **Social Recommendation with Cross-Domain Transferable Knowledge** [[Paper]](https://pengcui.thumedialab.com/papers/TKDE-CrossDomain.pdf)
-
 
 - (TKDD 2015) **Improving Top-N Recommendation for Cold-Start Users via Cross-Domain Information** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/2724720)
 
@@ -545,7 +543,7 @@
 
 - (AAAI 2025) **DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation** [[Paper]](https://arxiv.org/pdf/2412.15005) [[Code]](https://github.com/HourunLi/2025-AAAI-DisCo)
 
-- (WSDM 2025) **Large Language Model Simulator for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176v2.pdf)
+- (WSDM 2025) **Large Language Model Simulator for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) [[Code]](https://github.com/ColdLLM-Team/ColdLLM-repo)
 
 - (COLING 2025) **Integrating Group-based Preferences from Coarse to Fine for Cold-start Users Recommendation** [[Paper]](https://aclanthology.org/2025.coling-main.153.pdf) [[Code]](https://github.com/sygogo/GRAPECDR)
 
