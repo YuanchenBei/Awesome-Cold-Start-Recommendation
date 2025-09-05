@@ -228,6 +228,7 @@
 #### Interaction Graph Enhancement
 
 ##### 🚩 Supplementary Graph Relation 
+- (AAAI 2025) **Feature-Structure Adaptive Completion Graph Neural Network for Cold-start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33309/35464)
 
 - (SIGIR 2024) **Content-based Graph Reconstruction for Cold-start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657801)
 
@@ -236,7 +237,6 @@
 - (ICASSP 2024) **Mutual Information Assisted Graph Convolution Network for Cold-Start Recommendation** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10447656)
 
 - (SIGIR 2023) **Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3539618.3592078)
-
 
 
 ---
@@ -520,7 +520,7 @@
 
 - (SIGIR 2025) **Comprehending Knowledge Graphs with Large Language Models for Recommender Systems** [[Paper]](https://arxiv.org/pdf/2410.12229)
 
-- (WSDM 2025) **Large Language Model Simulator for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2402.09176v2.pdf)
+- (WSDM 2025) **Large Language Model Simulator for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) [[Code]](https://github.com/ColdLLM-Team/ColdLLM-repo)
 
 - (ECIR 2025) **LLM is Knowledge Graph Reasoner: LLM’s Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation** [[Paper]](https://arxiv.org/pdf/2412.12464)
 
@@ -531,7 +531,6 @@
 - (WWW 2024) **Large Language Models as Data Augmenters for Cold-Start Item Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651532)
 
 - (DASFAA 2024) **Common Sense Enhanced Knowledge-based Recommendation with Large Language Model** [[Paper]](https://arxiv.org/pdf/2403.18325) 
-
 
 
 ---
