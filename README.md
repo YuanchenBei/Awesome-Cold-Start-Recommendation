@@ -59,6 +59,7 @@
         - [🚩 LLMs for Representation Enhancement](#-llms-for-representation-enhancement)
         - [🚩 LLMs for Relation Augmentation](#-llms-for-relation-augmentation)
   - [Research Papers Sorted by Published Time](#research-papers-sorted-by-published-time)
+    - [Year 2026](#year-2026-back-to-top)
     - [Year 2025](#year-2025-back-to-top)
     - [Year 2024](#year-2024-back-to-top)
     - [Year 2023](#year-2023-back-to-top)
@@ -539,6 +540,10 @@
 <summary>⏳Research Papers Sorted by Published Time</summary>
 
 ## Research Papers Sorted by Published Time
+### Year 2026 [[Back to Top](#awesome-cold-start-recommendation)]
+- (AAAI 2026) **MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38558/42520) [[Code]](https://github.com/Camilla-jl/MoToRec)
+
+- (AAAI 2026) **M2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38501/42463) [[Code]](https://github.com/chuanhe1999/M2VAE)
 
 ### Year 2025 [[Back to Top](#awesome-cold-start-recommendation)]
 - (AAAI 2025) **DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation** [[Paper]](https://arxiv.org/pdf/2412.15005) [[Code]](https://github.com/HourunLi/2025-AAAI-DisCo)
