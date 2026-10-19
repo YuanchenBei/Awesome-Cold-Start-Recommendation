@@ -545,6 +545,8 @@
 
 - (AAAI 2026) **M2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38501/42463) [[Code]](https://github.com/chuanhe1999/M2VAE)
 
+- (RecSys 2026) **Zero-Observation User Reactivation with Gap-Driven Dimensional Gating** [[Paper]](https://arxiv.org/abs/2607.19802) [[Code]](https://github.com/jdding/DeltaGate)
+
 ### Year 2025 [[Back to Top](#awesome-cold-start-recommendation)]
 - (AAAI 2025) **DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation** [[Paper]](https://arxiv.org/pdf/2412.15005) [[Code]](https://github.com/HourunLi/2025-AAAI-DisCo)
 
