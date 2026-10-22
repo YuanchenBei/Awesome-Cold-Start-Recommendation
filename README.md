@@ -541,6 +541,8 @@
 
 ## Research Papers Sorted by Published Time
 ### Year 2026 [[Back to Top](#awesome-cold-start-recommendation)]
+- (TKDE 2026) **Toward Practical Large-Scale Dynamic Heterogeneous Graph Embedding: Cold-Start Resilient Recommendation** [[Paper]](https://arxiv.org/abs/2512.13120)
+
 - (AAAI 2026) **MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38558/42520) [[Code]](https://github.com/Camilla-jl/MoToRec)
 
 - (AAAI 2026) **M2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38501/42463) [[Code]](https://github.com/chuanhe1999/M2VAE)
