@@ -147,6 +147,8 @@
 
 ##### 🚩 Feature Similarity Measurement
 
+- (ESWA 2025) **A text-based recommender system for recommending relevant news articles** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424026836) [[Code]](https://github.com/patmull/recommender-system-for-news/tree/master)
+
 - (ICDE 2023) **Automatic Fusion Network for Cold-start CVR Prediction with Explicit Multi-Level Representation** [[Paper]](https://ieeexplore.ieee.org/document/10184698) [[Code]](https://github.com/Scarlett2333/autofuse)
 
 - (IJCNN 2023) **Cross-Modal Content Inference and Feature Enrichment for Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2307.02761.pdf)
@@ -543,7 +545,7 @@
 
 ## Research Papers Sorted by Published Time
 ### Year 2026 [[Back to Top](#awesome-cold-start-recommendation)]
-- (MDPI 2026) **Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation** [[Paper]](https://www.mdpi.com/2073-431X/15/9/639) [[Code]](https://github.com/patmull/language-models-in-embedding-based-recommender-system) [[Code]](https://github.com/patmull/news-recommender-core)
+- (MDPI 2026) **Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation** [[Paper]](https://www.mdpi.com/2073-431X/15/9/639) [[Code]](https://github.com/patmull/language-models-in-embedding-based-recommender-system)
 
 - (AAAI 2026) **MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38558/42520) [[Code]](https://github.com/Camilla-jl/MoToRec)
 
