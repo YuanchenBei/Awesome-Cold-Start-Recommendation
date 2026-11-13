@@ -516,6 +516,8 @@
 
 - (Arxiv 2023) **One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems** [[Paper]](https://arxiv.org/pdf/2310.14304)
 
+- (MDPI 2026) **Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation** [[Paper]]{https://www.mdpi.com/2073-431X/15/9/639}
+
 ---
 ##### 🚩 LLMs for Relation Augmentation
 
@@ -541,6 +543,8 @@
 
 ## Research Papers Sorted by Published Time
 ### Year 2026 [[Back to Top](#awesome-cold-start-recommendation)]
+- (MDPI 2026) **Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation** [[Paper]](https://www.mdpi.com/2073-431X/15/9/639) [[Code]](https://github.com/patmull/language-models-in-embedding-based-recommender-system) [[Code]](https://github.com/patmull/news-recommender-core)
+
 - (AAAI 2026) **MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38558/42520) [[Code]](https://github.com/Camilla-jl/MoToRec)
 
 - (AAAI 2026) **M2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38501/42463) [[Code]](https://github.com/chuanhe1999/M2VAE)
