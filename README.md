@@ -516,7 +516,7 @@
 
 - (Arxiv 2023) **One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems** [[Paper]](https://arxiv.org/pdf/2310.14304)
 
-- (MDPI 2026) **Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation** [[Paper]]{https://www.mdpi.com/2073-431X/15/9/639}
+- (MDPI 2026) **Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation** [[Paper]](https://www.mdpi.com/2073-431X/15/9/639)
 
 ---
 ##### 🚩 LLMs for Relation Augmentation
